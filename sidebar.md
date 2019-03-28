@@ -5,7 +5,8 @@
   * Add/remove from favorites
   * Favorites first
 
-* Favorites
+##Favorites
+ 
   * Statuses
   * Collapse/expand
   * Pending changes
@@ -28,7 +29,8 @@
 
 * Cache 
 
-* Keyboard support
+##Keyboard support
+We know you want those key bindings. You will get them soon!
   * Open with Q
   * Open with Q when hidden
   * Open with Cmd + K
