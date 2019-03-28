@@ -1,4 +1,5 @@
-#TeamCity Roadmap
+<<<<<<< HEAD
+# TeamCity Roadmap
 
 This page contains a TeamCity UI roadmap for the upcoming releases. You will get an
 insight on features we want to deliver, as well as the philosophy behind them.
@@ -22,9 +23,19 @@ build overview pages first. Those are the pages you use the most!
 
 Future updates will include changes to other pages, with test/investigations pages
 being next on the list. 
+
+## Legend 
+
+Throughout the roadmap we use the following legend for the status of each feature:
+
+|  Tag                  |         Meaning      |
+|-----------------------|----------------------|
+| No tag                | We planned it        |
+| :oncoming_automobile: | We are working on it |
+| :checkered_flag:      | We are finished      |
  
 
-##Our Priorities
+## Our Priorities
 
  
 * Emphasize the important data on every screen  
@@ -33,3 +44,6 @@ being next on the list.
 * Orientation and navigation
 * Understand and improve the workflow of our users
 * Finish reworking the UI pages one by one
+=======
+# TeamCity Roadmap
+>>>>>>> origin/master
