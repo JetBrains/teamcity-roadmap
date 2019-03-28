@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TeamCity Roadmap
 
 This page contains a TeamCity UI roadmap for the upcoming releases. You will get an
@@ -44,6 +43,3 @@ Throughout the roadmap we use the following legend for the status of each featur
 * Orientation and navigation
 * Understand and improve the workflow of our users
 * Finish reworking the UI pages one by one
-=======
-# TeamCity Roadmap
->>>>>>> origin/master
