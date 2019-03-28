@@ -4,6 +4,14 @@
 overview and build overview pages. 
 Click on any of the headers to track our progress with features related to it.
 
+Throughout the roadmap we use the following legend:
+
+|  Tag                  |         Meaning      |
+|-----------------------|----------------------|
+| No tag                | We planned it        |
+| :oncoming_automobile: | We are working on it |
+| :checkered_flag:      | We are finished      |
+
 ###Sidebar
 The redesigned TeamCity overview now includes a sidebar. Hide it whenever you want
 detailed information on a project or build configuration, or keep it open to retain 
