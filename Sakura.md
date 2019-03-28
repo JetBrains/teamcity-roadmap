@@ -16,9 +16,10 @@ the big picture.
 The new overview page will provide you with a bird-eye view of the selected project
 giving you information about your latest build configurations and subprojects. 
 
+![Project_overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/BuildConfigurationOverview.png)
 
 ### Build Configuration Overview
 Those blocks offer details on your build status and tests.
 
-![BuildConfiguration](file:///Users/jetbrains/Desktop/Screen%20Shot%202019-02-22%20at%2015.33.07%20copy.png)
+![Build_configuration](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png)
 
