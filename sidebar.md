@@ -1,5 +1,5 @@
 # Sidebar
-The sidebar is a big part of the [Sakura](https://github.com/JetBrains/teamcity-roadmap/blob/master/OverviewPages.md) update.
+The sidebar is a big part of the [Sakura](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md) update.
 
 The new pages are based on the master-detail principle; such a structure has a lot of advantages over the previous overview:
 * Performance’s now better since we only load the bare minimum

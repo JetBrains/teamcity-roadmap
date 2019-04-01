@@ -1,4 +1,6 @@
 # Build Configuration Overview
+Build configuration overview is a card you see whenever you click on a project. 
+
 
 ## Header
 * Breadcrumbs :checkered_flag:

@@ -24,8 +24,8 @@ Future releases will revolve around those groups.
  
 | Group                                     | Release                  |
 |-------------------------------------------|--------------------------|
-| [Overview pages (Sakura)](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md)                     | 2019.1                   |
-| [Build overview pages](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildOverview.md)                     | 2019.1/2019.2            |
+| [Overview pages (Sakura)](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md)| 2019.1           |
+| [Build overview pages (Sakura)](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildOverview.md)| 2019.1/2019.2|
 | Changes/tests/investigation details pages | 2019.2                   |
 | Agent pages                               | 2019.2                   |
 | Administration pages                      | 2020.1                   |

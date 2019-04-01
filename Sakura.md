@@ -25,5 +25,3 @@ This page offers details on the latest builds of the selected configuration.
 
 ![Build configuration](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/BuildConfigurationOverview.png)
 
-### [Build Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildOverview.md)
-
