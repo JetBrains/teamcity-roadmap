@@ -1,6 +1,6 @@
-#Build Configuration Overview
+# Build Configuration Overview
 
-##Header
+## Header
 * Breadcrumbs :checkered_flag:
 * Title :checkered_flag:
 * Branch selector :checkered_flag:
@@ -10,7 +10,7 @@
 * Has system problems :checkered_flag:
 * Investigation (assign/view) :checkered_flag:
 	
-##Tabs
+## Tabs
 ### Branches
 * Default branch overview :checkered_flag:
 * Pending branches section :checkered_flag:
@@ -18,7 +18,7 @@
 * Queued builds sections :checkered_flag:
 * Pending changes :checkered_flag:
 		
-###Builds
+### Builds
 * Build list :checkered_flag:
 * Queued sections :checkered_flag:
 * Pending changes :checkered_flag:
