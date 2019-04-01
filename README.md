@@ -4,18 +4,31 @@ This page contains a TeamCity UI roadmap for the upcoming releases. You will get
 insight on features we want to deliver, as well as the philosophy behind them.
 
 TeamCity has been around for more then a decade now. In order to keep up with the ever
-evolving needs and standards of our users, we made continuous small changes to the
+evolving needs and standards of our users, we made small, continuous changes to the
 TeamCIty UI. <br/>
 Recently, we decided to roll out **BIG** improvements we came up with over the years.
 Our goal is a flexible, user-friendly and up-to-date TeamCity UI.
 
-To make our job of updating TeamCity UI easier, we split all our pages into groups: 
-1. Overview pages 
-2. Build overview pages 
-3. Test/investigation details pages
-4. Agent pages
-5. Admin pages
-6. Reporting pages
+## Our Priorities
+ 
+* Emphasize the important data on every screen  
+* Performance and visual appeal 
+* Scalability – pleasant UX for both small and big installations
+* Orientation and navigation
+* Understand and improve the workflow of our users
+* Finish reworking the UI pages one by one
+
+##Release Themes
+To make our job of updating TeamCity UI easier, we split all our pages into groups:
+ 
+| Group                                     | Release                  |
+|-------------------------------------------|--------------------------|
+| Overview pages                            | 2019.1                   |
+| Build overview pages                      | 2019.1/2019.2            |
+| Changes/tests/investigation details pages | 2019.2                   |
+| Agent pages                               | 2019.2                   |
+| Administration pages                      | 2020.1                   |
+| Reporting pages                           | 2020.1                   |
  
 Leveraging your feedback and use-case statistics, we decided to focus on overview and 
 build overview pages first. Those are the pages you use the most! 
@@ -34,12 +47,3 @@ Throughout the roadmap we use the following legend for the status of each featur
 | :checkered_flag:      | We are finished      |
  
 
-## Our Priorities
-
- 
-* Emphasize the important data on every screen  
-* Performance and visual appeal 
-* Scalability – pleasant UX for both small and big installations
-* Orientation and navigation
-* Understand and improve the workflow of our users
-* Finish reworking the UI pages one by one

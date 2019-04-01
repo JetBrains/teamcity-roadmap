@@ -1,6 +1,5 @@
-# Build Overview
-The build overview page  will contain information on 
-following topics:
+#Build Overview
+The build overview page  will contain information on following topics:
 
 * General data :checkered_flag: 
 * Build artifacts :checkered_flag: 
