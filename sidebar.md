@@ -1,6 +1,6 @@
 # Sidebar
 
-* Search
+## Search
   * Main functionality :checkered_flag:
   * Add/remove from favorites :checkered_flag:
   * Favorites first :checkered_flag:
@@ -16,13 +16,12 @@
   * Paused :checkered_flag:
   * Reordering 
 
-* Selected branch support
-		Counters (running, queued)
-		Pending changes
+## Selected branch support
+* Counters (running, queued)
+* Pending changes
 
 * Projects
   * Collapse/expand :checkered_flag:
-
 * Resize/Hide :checkered_flag:
 
 * Long names support :checkered_flag:
@@ -35,8 +34,8 @@ We know you want those key bindings. You will get them soon!
   * Open with Q when hidden :checkered_flag:
   * Open with Cmd + K
   * Node navigation
-  * Hide/show
-
+  * Hide/show 
+ #
 * Failed only
 
 * Archived project support :checkered_flag:

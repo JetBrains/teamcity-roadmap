@@ -18,23 +18,22 @@ Our goal is a flexible, user-friendly and up-to-date TeamCity UI.
 * Understand and improve the workflow of our users
 * Finish reworking the UI pages one by one
 
-## Release Themes
-To make our job of updating TeamCity UI easier, we split all our pages into groups:
+## Updates
+To make our job of updating TeamCity UI easier, we split all our pages into groups.
+Future releases will revolve around those groups. 
  
 | Group                                     | Release                  |
 |-------------------------------------------|--------------------------|
-| Overview pages                            | 2019.1                   |
+| [Overview pages   ]()                     | 2019.1                   |
 | Build overview pages                      | 2019.1/2019.2            |
 | Changes/tests/investigation details pages | 2019.2                   |
 | Agent pages                               | 2019.2                   |
 | Administration pages                      | 2020.1                   |
-| Reporting pages                           | 2020.1                   |
+| Reporting pages                           | 2020.2                   |
  
 Leveraging your feedback and use-case statistics, we decided to focus on overview and 
 build overview pages first. Those are the pages you use the most! 
 
-Future updates will include changes to other pages, with test/investigations pages
-being next on the list. 
 
 ## Legend 
 
