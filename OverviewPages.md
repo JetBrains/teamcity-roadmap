@@ -5,7 +5,7 @@ overview and build overview pages.
 Click on any of the headers to track our progress with features related to it.
 
 
-### Sidebar
+### [Sidebar](https://github.com/JetBrains/teamcity-roadmap/blob/master/sidebar.md)
 The redesigned TeamCity overview now includes a sidebar. Hide it whenever you want
 detailed information on a project or build configuration, or keep it open to retain 
 the big picture. 
