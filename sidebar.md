@@ -1,11 +1,11 @@
-#Sidebar
+# Sidebar
 
 * Search
   * Main functionality :checkered_flag:
   * Add/remove from favorites :checkered_flag:
   * Favorites first :checkered_flag:
 
-##Favorites
+## Favorites
  
   * Statuses :checkered_flag:
   * Collapse/expand :checkered_flag:
@@ -29,7 +29,7 @@
 
 * Cache 
 
-##Keyboard support
+## Keyboard support
 We know you want those key bindings. You will get them soon!
   * Open with Q :checkered_flag:
   * Open with Q when hidden :checkered_flag:

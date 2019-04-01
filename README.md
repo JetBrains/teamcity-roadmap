@@ -18,7 +18,7 @@ Our goal is a flexible, user-friendly and up-to-date TeamCity UI.
 * Understand and improve the workflow of our users
 * Finish reworking the UI pages one by one
 
-##Release Themes
+## Release Themes
 To make our job of updating TeamCity UI easier, we split all our pages into groups:
  
 | Group                                     | Release                  |
