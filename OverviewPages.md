@@ -19,7 +19,8 @@ giving you information about your latest build configurations and subprojects.
 ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png)
 
 ### [Build Configuration Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md)
-Those blocks offer details on your build status and tests.
+This page offer details on your build status and tests.
 
 ![Build configuration](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/BuildConfigurationOverview.png)
 
+### Build Overview
