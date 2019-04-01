@@ -1,7 +1,9 @@
 # Sakura
 
-'Sakura' is the internal name of our first project. Sakura's focus lies entirely on 
-overview and build overview pages. 
+'Sakura' is the internal name of our first project. It is the first step towards
+[our vision of the new UI](https://github.com/JetBrains/teamcity-roadmap/blob/master/README.md).
+Sakura's focus lies entirely on overview and build 
+overview pages. <br/>
 Click on any of the headers to track our progress with features related to it.
 
 
@@ -19,8 +21,10 @@ giving you information about your latest build configurations and subprojects.
 ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png)
 
 ### [Build Configuration Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md)
-This page offer details on your build status and tests.
+This page offers details on the latest builds of the selected configuration.
 
 ![Build configuration](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/BuildConfigurationOverview.png)
 
-### Build Overview
+### [Build Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildOverview.md)
+
+![Build overview]()
