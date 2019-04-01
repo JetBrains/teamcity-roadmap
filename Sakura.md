@@ -14,7 +14,7 @@ the big picture.
 
 (Screenshot)
 
-### Project Overview 
+### [Project Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/ProjectOverview.md)
 The new overview page will provide you with a bird-eye view of the selected project
 giving you information about your latest build configurations and subprojects. 
 

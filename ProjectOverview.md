@@ -1,6 +1,6 @@
-#Project Overview
+# Project Overview
 
-##Header
+## Header
 * Breadcrumbs  :checkered_flag:
 * Title :checkered_flag:
 * Branch selector :checkered_flag:
@@ -9,8 +9,8 @@
 * Description :checkered_flag:
 * Archived
 
-##Tabs
-###Overview
+## Tabs
+### Overview
 * Build configurations list  
 	* Favorites first  :checkered_flag:
 	* Show more  :checkered_flag:
