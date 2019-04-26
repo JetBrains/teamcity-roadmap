@@ -25,7 +25,7 @@ Future releases will revolve around those groups.
 | Group                                     | Release                  |
 |-------------------------------------------|--------------------------|
 | [Overview pages (Sakura)](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md)| 2019.1           |
-| [Build overview pages (Sakura)](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildOverview.md)| 2019.1/2019.2|
+| [Build overview (Sakura)](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildOverview.md)| 2019.1/2019.2|
 | Changes/tests/investigation details pages | 2019.2                   |
 | Agent pages                               | 2019.2                   |
 | Administration pages                      | 2020.1                   |
@@ -37,12 +37,12 @@ build overview pages first. Those are the pages you use the most!
 
 ## Legend 
 
-Throughout the roadmap we use the following legend for the status of each feature:
+Throughout the roadmap we will use the following legend for the status of each feature:
 
 |  Tag                  |         Meaning      |
 |-----------------------|----------------------|
 | No tag                | We planned it        |
 | :oncoming_automobile: | We are working on it |
 | :checkered_flag:      | We are finished      |
-| :x:      |     |
+| :x:      |  Currently not planned??  |
 

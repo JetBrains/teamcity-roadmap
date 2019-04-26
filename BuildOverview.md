@@ -1,6 +1,6 @@
 # Build Overview
 The build overview page is displayed whenever you select a specific build. 
-We understand the importance of this page, it is one of the core parts of the [Sakura UI](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md) 
+We understand the importance of this page, it is one of the core parts of the [Sakura](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md) 
 update. <br/> 
 The build overview page will contain information on following topics:
 

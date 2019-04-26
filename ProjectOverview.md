@@ -1,4 +1,7 @@
 # Project Overview
+Project Overview page is one of the novelties of this update. Whenever you select a 
+project, first thing you see are the [Build Configuration overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md) cards. 
+<br>Apart from the cards, you may choose to display the whole build list. 
 
 ## Header
 * Breadcrumbs  :checkered_flag:

@@ -4,7 +4,7 @@
 [our vision of the new UI](https://github.com/JetBrains/teamcity-roadmap/blob/master/README.md).
 Sakura's focus lies entirely on overview and build 
 overview pages. <br/>
-Click on any of the headers to track our progress with features related to it.
+Click on any of the headers to track the progress with the related features.
 
 
 ### [Sidebar](https://github.com/JetBrains/teamcity-roadmap/blob/master/sidebar.md)

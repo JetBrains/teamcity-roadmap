@@ -12,13 +12,13 @@ build configuration currently selected
 
 ## Search
   * Main functionality :checkered_flag:
-  * Add/remove from favorites :checkered_flag:
-  * Favorites first :checkered_flag:
+  * Add/remove pages to favorites :checkered_flag:
+  * Show favorites first :checkered_flag:
 
 ## Favorites
  
   * Statuses :checkered_flag:
-  * Collapse/expand :checkered_flag:
+  * Collapse/expand the sidebar :checkered_flag:
   * Pending changes :checkered_flag:
   * Counters (running,queued) :checkered_flag:
   * Investigations :checkered_flag:
@@ -27,8 +27,8 @@ build configuration currently selected
   * Reordering 
 
 ## Selected branch support
-* Counters (running, queued)
-* Pending changes
+* Counters (running, queued) in the selected branch
+* Pending changes in the selected branch
 
 ## General
 * Collapse/expand projects :checkered_flag:

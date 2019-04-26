@@ -1,6 +1,6 @@
 # Build Configuration Overview
-Build configuration overview is a card you see whenever you click on a project. 
-It contains vital information of the according build configuration. <br/>
+Build configuration overviews are the cards you see whenever you click on a project. 
+They contain vital information on the according build configuration. <br/>
 Build configuration overview is included in the [Sakura UI](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md)
 update.
 
@@ -28,4 +28,4 @@ update.
 * Queued sections :checkered_flag:
 * Pending changes :checkered_flag:
 * Run build :checkered_flag:
-* 'Perpetual' links 
+* 'Perpetual' links :oncoming_automobile:
