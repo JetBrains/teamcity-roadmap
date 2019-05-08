@@ -1,4 +1,4 @@
-# TeamCity Roadmap
+# TeamCity UI Roadmap
 
 This page contains a TeamCity UI roadmap for the upcoming releases. You will get an
 insight on features we want to deliver, as well as the philosophy behind them.
