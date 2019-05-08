@@ -38,7 +38,7 @@ build configuration currently selected
   * Investigations :checkered_flag:
         ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/investigation.png)
   * System problems :checkered_flag:
-        ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem)
+        ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem.png)
   * Paused :checkered_flag:
         paused emoji
   * Reordering  
