@@ -30,19 +30,20 @@ build configuration currently selected
  
   * Statuses :checkered_flag:
   
-#### Collapse/expand :checkered_flag:
-      
-        Projects are collapsable
-        
+### Collapse/expand projects :checkered_flag: 
+
 ### Pending changes :checkered_flag:
 
-  </br> <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png">
-  * Counters (running,queued) :checkered_flag:
-       </br> <img height="132" width="427" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png">
-  * Investigations :checkered_flag:
-       </br> <img height="98" width="366" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/investigation.png">
-  * System problems :checkered_flag:
-       </br> <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem.png">
+  <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png">
+
+### Counters (running,queued) :checkered_flag:
+<img height="132" width="427" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png">
+
+### Investigations :checkered_flag:
+</br> <img height="98" width="366" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/investigation.png">
+
+### System problems :checkered_flag:
+</br> <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem.png">
   * Paused :checkered_flag:
         paused emoji
   * Reordering  
