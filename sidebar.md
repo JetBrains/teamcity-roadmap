@@ -19,11 +19,11 @@ build configuration currently selected
 #### Show favorites first :checkered_flag:
         okay
 #### Archived project support :checkered_flag:
-        show archived is possible in search mode:
-            search archived projects
+<img height="227" width="320" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/archived.png">
+
 #### Federation support :checkered_flag: 
-      link to docs; 
-      projects of other servers are searchable in sidebar
+<img height="473" width="319" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/federation_support.png">
+
      
 
 
