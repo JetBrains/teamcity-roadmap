@@ -34,7 +34,7 @@ build configuration currently selected
   * Pending changes :checkered_flag:
         ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png)
   * Counters (running,queued) :checkered_flag:
-        ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png)
+       </br> <img height="132" width="427" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png">
   * Investigations :checkered_flag:
        </br> <img height="98" width="366" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/investigation.png">
   * System problems :checkered_flag:
