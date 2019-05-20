@@ -13,14 +13,15 @@ build configuration currently selected
 ## Search mode 
   * Main functionality :checkered_flag:
         findable things
-  * Add/remove pages to favorites :checkered_flag:
-        done via search
-  * Show favorites first :checkered_flag:
+#### Add/remove pages to favorites :checkered_flag:
+<img height="111" width="371" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/search:favs.png">
+
+#### Show favorites first :checkered_flag:
         okay
-  * Archived project support :checkered_flag:
+#### Archived project support :checkered_flag:
         show archived is possible in search mode:
             search archived projects
-  * Federation support :checkered_flag: 
+#### Federation support :checkered_flag: 
       link to docs; 
       projects of other servers are searchable in sidebar
      
