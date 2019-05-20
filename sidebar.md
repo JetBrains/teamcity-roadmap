@@ -11,13 +11,15 @@ build configuration currently selected
 
 
 ## Search mode 
-  * Main functionality :checkered_flag:
-        findable things
+
+#### Main functionality :checkered_flag:
+<img height="438" width="212" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/main_functionality.png">
+
 #### Add/remove pages to favorites :checkered_flag:
 <img height="111" width="371" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/search:favs.png">
 
 #### Show favorites first :checkered_flag:
-        okay
+
 #### Archived project support :checkered_flag:
 <img height="227" width="320" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/archived.png">
 
