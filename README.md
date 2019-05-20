@@ -44,5 +44,5 @@ Throughout the roadmap we will use the following legend for the status of each f
 | No tag                | We planned it        |
 | :oncoming_automobile: | We are working on it |
 | :checkered_flag:      | We are finished      |
-| :x:      |  Currently not planned??  |
+| :x:      |  Currently not planned  |
 
