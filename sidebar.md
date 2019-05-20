@@ -29,9 +29,9 @@ build configuration currently selected
 ## Favorites
  
   * Statuses :checkered_flag:
-  * Collapse/expand :checkered_flag:
+####Collapse/expand :checkered_flag:
         Projects are collapsable
-  * Pending changes :checkered_flag:
+###Pending changes :checkered_flag:
        </br> <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png">
   * Counters (running,queued) :checkered_flag:
        </br> <img height="132" width="427" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png">
