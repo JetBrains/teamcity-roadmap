@@ -36,7 +36,7 @@ build configuration currently selected
   * Counters (running,queued) :checkered_flag:
         ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png)
   * Investigations :checkered_flag:
-        <img align="right" height="50" width="50" "https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/investigation.png/50/50">
+        <img align="right" height="50" width="50" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/investigation.png/50/50">
   * System problems :checkered_flag:
         ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem.png)
   * Paused :checkered_flag:
