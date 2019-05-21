@@ -32,9 +32,7 @@ build configuration currently selected
 ## Favorites
  
 #### Statuses :checkered_flag:
-  
-#### Collapse/expand projects :checkered_flag: 
-
+  ch 
 #### Pending changes :checkered_flag:
 <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png">
 
