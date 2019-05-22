@@ -7,10 +7,14 @@ project, first thing you see are the [Build Configuration overview](https://gith
 * Breadcrumbs  :checkered_flag:
 * Title :checkered_flag:
 * Branch selector :checkered_flag:
-* Add to favorite :checkered_flag:
+* Add to favorites :checkered_flag:
 			Smart/optional (?)
 * Description :checkered_flag:
-* Archived
+* Archived :checkered_flag:
+* Health items :checkered_flag:
+
+<img height="133" width="1016" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_header.png">
+
 
 ## Tabs
 ### Overview

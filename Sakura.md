@@ -22,8 +22,9 @@ giving you information about your latest build configurations and subprojects.
 ![Project overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png)
 
 ### [Build Configuration Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md)
-Those cards give you relevant details about the latest builds of the corresponding
+This page gives you relevant details about the latest builds of the corresponding
 configuration.
 
 ![Build configuration](https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/BuildConfigurationOverview.png)
 
+### Configurable Tabs 

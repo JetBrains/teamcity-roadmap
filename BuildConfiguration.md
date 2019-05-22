@@ -15,7 +15,7 @@ update.
 * Has system problems :checkered_flag:
 * Investigation (assign/view) :checkered_flag:
 	
-## Tabs
+## Toggle
 ### Branches
 * Default branch overview :checkered_flag:
 * Pending branches section :checkered_flag:
