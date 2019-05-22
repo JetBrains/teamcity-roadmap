@@ -47,7 +47,9 @@ build configuration currently selected
 #### Paused :checkered_flag:
 <img height="128" width="287" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/paused.png">
 
-#### Reordering (working on it) 
+#### Reordering :oncoming_automobile:
+<img height="169" width="262" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/reordering.png">
+
 
 ## Selected branch support
 * Counters (running, queued) in the selected branch
