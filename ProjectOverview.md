@@ -13,7 +13,7 @@ project, first thing you see are the [Build Configuration overview](https://gith
 * Archived :checkered_flag:
 * Health items :checkered_flag:
 
-<img height="133" width="1016" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_header.png">
+<img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_header.png">
 
 
 ## Tabs
