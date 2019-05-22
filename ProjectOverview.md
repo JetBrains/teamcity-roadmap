@@ -34,4 +34,4 @@ project, first thing you see are the Build Configuration overview cards.
 
 ## Subprojects
 
-<img height="300" width="673" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/subprojects.png">
+<img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/subprojects.png">
