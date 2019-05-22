@@ -46,7 +46,7 @@ build configuration currently selected
 <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem.png">
 
 #### Paused :checkered_flag:
-<img height="256*2/3" width="572*2/3" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/paused.png">
+<img height="256/2" width="572/2" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/paused.png">
 
 #### Reordering  
 
