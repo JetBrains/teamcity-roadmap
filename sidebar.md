@@ -46,7 +46,8 @@ build configuration currently selected
 <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/system_problem.png">
 
 #### Paused :checkered_flag:
-      paused emoji
+<img height="256*2/3" width="572*2/3" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/paused.png">
+
 #### Reordering  
 
 ## Selected branch support
