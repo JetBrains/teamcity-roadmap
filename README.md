@@ -34,6 +34,8 @@ Future releases will revolve around those groups.
 Leveraging your feedback and use-case statistics, we decided to focus on overview and 
 build overview pages first. Those are the pages you use the most! 
 
+After 2019.1, both main and new UI will be available for the next few releases. All the functionality not
+yet transfered to Sakura will be accessible in the main UI. 
 
 ## Legend 
 
