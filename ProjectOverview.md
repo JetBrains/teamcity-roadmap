@@ -1,20 +1,22 @@
 # Project Overview
 Project Overview page is one of the novelties of this update. Whenever you select a 
-project, first thing you see are the [Build Configuration overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md) cards. 
+project, first thing you see are the Build Configuration overview cards. 
 <br>Apart from the cards, you may choose to display the whole build list. 
 
 ## Header
+
+<img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_header.png">
+
+
 * Breadcrumbs  :checkered_flag:
 * Title :checkered_flag:
 * Branch selector :checkered_flag:
-* Add to favorites :checkered_flag:
-			Smart/optional (?)
+* Add to favorites :checkered_flag:	smart/optional (?)
 * Description :checkered_flag:
 * Archived :checkered_flag:
 * Health items :checkered_flag:
 
-<img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_header.png">
-
+## Cards
 
 ## Tabs
 ### Overview
