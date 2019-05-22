@@ -12,7 +12,8 @@ The redesigned TeamCity overview now includes a sidebar. Hide it whenever you wa
 detailed information on a project or build configuration, or keep it open to retain 
 the big picture. 
 
-(Screenshot)
+<img height="590" width="1303" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/sidebar_main.png">
+
 
 ### [Project Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/ProjectOverview.md)
 The new overview page will provide you with a bird-eye view of the selected project

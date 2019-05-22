@@ -36,7 +36,7 @@ build configuration currently selected
 #### Pending changes :checkered_flag:
 <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png">
 
-#### Counters (running,queued) :checkered_flag:
+#### Running/queued counters :checkered_flag:
 <img height="132" width="427" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/counters.png">
 
 #### Investigations :checkered_flag:
