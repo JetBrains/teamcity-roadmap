@@ -24,7 +24,7 @@ build configuration currently selected
 <img height="227" width="320" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/archived.png">
 
 #### Federation support :checkered_flag: 
-<img height="473" width="319" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/federation_support.png">
+<img height="378" width="255" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/federation_support.png">
 
      
 
