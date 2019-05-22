@@ -18,8 +18,6 @@ build configuration currently selected
 #### Add/remove pages to favorites :checkered_flag:
 <img height="111" width="371" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/search:favs.png">
 
-#### Show favorites first :checkered_flag:
-
 #### Archived project support :checkered_flag:
 <img height="227" width="320" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/archived.png">
 
@@ -32,6 +30,7 @@ build configuration currently selected
 ## Favorites
  
 #### Statuses :checkered_flag:
+<img height="152" width="274" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/statuses.png">  
   
 #### Pending changes :checkered_flag:
 <img height="205" width="257" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/pending_changes.png">
@@ -48,7 +47,7 @@ build configuration currently selected
 #### Paused :checkered_flag:
 <img height="128" width="287" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/paused.png">
 
-#### Reordering  
+#### Reordering (working on it) 
 
 ## Selected branch support
 * Counters (running, queued) in the selected branch
