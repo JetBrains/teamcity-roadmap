@@ -19,7 +19,7 @@ the big picture.
 The new overview page will provide you with a bird-eye view of the selected project
 giving you information about your latest build configurations and subprojects. 
 
-<img height="672" width="1014" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png">
+<img height="448" width="676" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png">
 
 ### [Build Configuration Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md)
 This page gives you relevant details about the latest builds of the corresponding
