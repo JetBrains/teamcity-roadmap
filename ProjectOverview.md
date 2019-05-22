@@ -29,5 +29,9 @@ project, first thing you see are the Build Configuration overview cards.
 
 <img height="300" width="673" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/build_list.png">
 
+* Grouping by build configuration :checkered_flag:
+* Favourite builds first :ongoing_automobile:
 
 ## Subprojects
+
+<img height="300" width="673" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/subprojects.png">
