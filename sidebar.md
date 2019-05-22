@@ -48,7 +48,7 @@ build configuration currently selected
 <img height="128" width="287" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/paused.png">
 
 #### Reordering :oncoming_automobile:
-<img height="169" width="262" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/reordering.png">
+<img height="257" width="394" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/reordering.png">
 
 
 ## Selected branch support
