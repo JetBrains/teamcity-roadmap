@@ -27,4 +27,7 @@ project, first thing you see are the Build Configuration overview cards.
 
 ## Build List
 
+<img height="300" width="673" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/build_list.png">
+
+
 ## Subprojects
