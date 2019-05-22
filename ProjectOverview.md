@@ -34,4 +34,7 @@ project, first thing you see are the Build Configuration overview cards.
 
 ## Subprojects
 
+Here you will see the subprojects of the selected project. Clicking on any of the subprojects will open its overview. 
+The overview of the subprojects has the same structure as the overview of the main project.
+
 <img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/subprojects.png">
