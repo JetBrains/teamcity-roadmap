@@ -1,8 +1,9 @@
 # Build Overview
-The build overview page is displayed whenever you select a specific build. 
-We understand the importance of this page, it is one of the core parts of the [Sakura](https://github.com/JetBrains/teamcity-roadmap/blob/master/Sakura.md) 
-update. <br/> 
-The build overview page will contain information on following topics:
+The __Build Overview__ page is displayed whenever you select a specific build.
+We understand the importance of this page, it is one of the core parts of the [Sakura](Sakura.md) 
+update.
+
+The __Build Overview__ page will contain information on the following topics:
 
 * General data :checkered_flag: 
 * Build artifacts :checkered_flag: 
