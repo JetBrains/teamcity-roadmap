@@ -30,9 +30,11 @@ project, first thing you see are the Build Configuration overview cards.
 <img height="300" width="673" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/build_list.png">
 
 * Grouping by build configuration :checkered_flag:
-* Favourite builds first :oncoming_automobile:
+* Favourite build configurations first :oncoming_automobile:
 
 ## Subprojects
+
+* Favourite subprojects first :checkered_flag:
 
 Here you will see the subprojects of the selected project. Clicking on any of the subprojects will open its overview. 
 The overview of the subprojects has the same structure as the overview of the main project.
