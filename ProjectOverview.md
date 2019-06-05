@@ -1,11 +1,11 @@
 # Project Overview
-Project Overview page is one of the novelties of this update. Whenever you select a 
-project, first thing you see are the Build Configuration overview cards. 
-<br>Apart from the cards, you may choose to display the whole build list. 
+The __Project Overview__ page is one of the novelties of the Sakura UI update. Whenever you select a project, the first thing you see is the __Trends__ cards displaying some details of the build configurations.
+
+If you prefer, you can switch to the __Builds List__ mode instead.
 
 ## Header
 
-<img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_header.png">
+<img src="Images/project_overview_header.png">
 
 * Breadcrumbs  :checkered_flag:
 * Title :checkered_flag:
@@ -15,9 +15,9 @@ project, first thing you see are the Build Configuration overview cards.
 * Archived :checkered_flag:
 * Health items :checkered_flag:
 
-## Cards
+## Trend Cards
 
-<img height="331" width="442" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview_card.png">
+<img height="331" width="442" src="Images/project_overview_card.png">
 
 * Build status/duration chart :checkered_flag:
 * Tests chart :checkered_flag:
@@ -27,16 +27,14 @@ project, first thing you see are the Build Configuration overview cards.
 
 ## Build List
 
-<img height="300" width="673" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/build_list.png">
+<img height="300" width="673" src="Images/build_list.png">
 
 * Grouping by build configuration :checkered_flag:
-* Favourite build configurations first :oncoming_automobile:
+* Favorite builds first :oncoming_automobile:
 
 ## Subprojects
 
-* Favourite subprojects first :checkered_flag:
-
-Here you will see the subprojects of the selected project. Clicking on any of the subprojects will open its overview. 
+At the bottom of the page you can see the subprojects of the selected project. Clicking on any subproject will open its overview.
 The overview of the subprojects has the same structure as the overview of the main project.
 
 <img src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/subprojects.png">

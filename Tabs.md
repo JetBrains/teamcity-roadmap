@@ -1,5 +1,6 @@
-## Tabs
-### Overview
+# Tabs
+
+## Overview
 * Build configurations list  
 	* Favorites first  :checkered_flag:
 	* Show more  :checkered_flag:
@@ -13,5 +14,6 @@
 	* No builds presentation
 * Chart :checkered_flag:
 
-### Builds
-### Old Tabs
+[//]: # (## Builds)
+
+[//]: # (## Old Tabs)
