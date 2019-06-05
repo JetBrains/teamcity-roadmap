@@ -5,7 +5,7 @@ The __Build Configuration Overview__ page displays the vital information on the 
 
 ## Header
 
-<img height="448" width="676" src="Images/build_confiuration_overview_header.png">
+<img height="448" width="676" src="Images/build_configuration_overview_header.png">
 
 * Breadcrumbs :checkered_flag:
 * Title :checkered_flag:
