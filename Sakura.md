@@ -22,6 +22,6 @@ giving you information about your latest build configurations and subprojects.
 ### [Build Configuration Overview](BuildConfiguration.md)
 The __Build Configuration Overview__ page gives you relevant details about the latest builds of the corresponding configuration.
 
-![Build configuration](Images/BuildConfigurationOverview.png)
+<img height="391" width="713" src="Images/build_configiuration_overview.png">
 
 [//]: # (## Configurable Tabs)
