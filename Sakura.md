@@ -1,30 +1,27 @@
 # Sakura
 
 'Sakura' is the internal name of our first project. It is the first step towards
-[our vision of the new UI](https://github.com/JetBrains/teamcity-roadmap/blob/master/README.md).
-Sakura's focus lies entirely on overview and build 
-overview pages. <br/>
-Click on any of the headers to track the progress with the related features.
+[our vision of the new UI](README.md).
+Sakura's focus lies entirely on the __Overview__ and __Build Overview__ pages.
+
+Click on any heading to read the detailed description of the progress made on each feature.
 
 
-### [Sidebar](https://github.com/JetBrains/teamcity-roadmap/blob/master/sidebar.md)
-The redesigned TeamCity overview now includes a sidebar. Hide it whenever you want
-detailed information on a project or build configuration, or keep it open to retain 
-the big picture. 
+### [Sidebar](sidebar.md)
+The redesigned TeamCity __Overview__ now includes a sidebar. Hide it whenever you want to see the details of a project or build configuration, or keep it open to retain the big picture.
 
-<img height="393" width="869" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/sidebar_main.png">
+<img height="393" width="869" src="Images/sidebar_main.png">
 
 
-### [Project Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/ProjectOverview.md)
-The new overview page will provide you with a bird-eye view of the selected project
-giving you information about your latest build configurations and subprojects. 
+### [Project Overview](ProjectOverview.md)
+The new __Overview__ page will provide you with a bird-eye view of the selected project
+giving you information about your latest build configurations and subprojects.
 
-<img height="448" width="676" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/project_overview.png">
+<img height="448" width="676" src="Images/project_overview.png">
 
-### [Build Configuration Overview](https://github.com/JetBrains/teamcity-roadmap/blob/master/BuildConfiguration.md)
-This page gives you relevant details about the latest builds of the corresponding
-configuration.
+### [Build Configuration Overview](BuildConfiguration.md)
+The __Build Configuration Overview__ page gives you relevant details about the latest builds of the corresponding configuration.
 
-<img height="448" width="676" src="https://github.com/JetBrains/teamcity-roadmap/blob/master/Images/build_configuration_overview.png">
+![Build configuration](Images/BuildConfigurationOverview.png)
 
-### Configurable Tabs 
+[//]: # (## Configurable Tabs)
