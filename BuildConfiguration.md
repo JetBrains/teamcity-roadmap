@@ -19,7 +19,7 @@ The __Build Configuration Overview__ page displays the vital information on the 
 ## Toggle
 ### Branches
 
-<img height="467" width="1057" src="Images/build_configuration_overview_branches.png">
+<img src="Images/build_configuration_overview_branches.png">
 
 * Default branch overview :checkered_flag:
 * Pending branches section :checkered_flag:
@@ -29,7 +29,7 @@ The __Build Configuration Overview__ page displays the vital information on the 
 		
 ### Builds
 
-<img height="636" width="1065" src="Images/build_configuration_overview_list.png">
+<img src="Images/build_configuration_overview_list.png">
 
 * Build list :checkered_flag:
 * Queued sections :checkered_flag:
