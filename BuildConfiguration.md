@@ -5,7 +5,7 @@ The __Build Configuration Overview__ page displays the vital information on the 
 
 ## Header
 
-<img src="Images/build_configuration_overview_header.png">
+<img height="448" width="676 src="Images/build_configuration_overview_header.png">
 
 * Breadcrumbs :checkered_flag:
 * Title :checkered_flag:
@@ -18,6 +18,9 @@ The __Build Configuration Overview__ page displays the vital information on the 
 	
 ## Toggle
 ### Branches
+
+<img height="467" width="1057 src="Images/build_configuration_overview_branches.png">
+
 * Default branch overview :checkered_flag:
 * Pending branches section :checkered_flag:
 * Group by branches :checkered_flag:
@@ -25,6 +28,9 @@ The __Build Configuration Overview__ page displays the vital information on the 
 * Pending changes :checkered_flag:
 		
 ### Builds
+
+<img height="636" width="1065 src="Images/build_configuration_overview_list.png">
+
 * Build list :checkered_flag:
 * Queued sections :checkered_flag:
 * Pending changes :checkered_flag:
