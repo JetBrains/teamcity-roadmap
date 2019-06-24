@@ -18,47 +18,41 @@ The new __Build Overview__ page will contain information on the following topics
 
 <img height="103" width="621" src="Images/build_overview_header.png">
 
-* Breadcrumbs 
-* Project/build configuration
-* Number
-* Title 
+* Breadcrumbs :checkered_flag:  
+* Project/build configuration :checkered_flag: 
+* Number :checkered_flag: 
+* Title :checkered_flag: 
 * Branch selector 
-* Status
-* State
-* Pin/tags
-* Artifacts
-* Agent
-* Add to favorites 
-* Description 
-* Paused 
-* Investigation (assign/view) 
-* Dependencies 
-* Comment
+* Status :checkered_flag: 
+* State :checkered_flag: 
+* Add to favorites :checkered_flag: 
+* Description :checkered_flag: 
+* Investigation (assign/view) :checkered_flag: 
 
 ## Tabs 
 
-[//]: <> (<img height="66" width="670" src="Images/build_overview_tabs.png">)
+<img height="66" width="670" src="Images/build_overview_tabs.png">
 
-* Overview
+* Overview  :checkered_flag: 
     * Build info
     * Build details
-* Tests
+* Tests :oncoming_automobile:
     * Filters
         * By name
         * By status
     * Timeline
   	* List/tree
-* Build log
+* Build log :oncoming_automobile:
     * Timeline
     * Flame chart
-* Snapshot dependencies
+* Snapshot dependencies :oncoming_automobile:
 
 ## Build Timeline
 
 <img height="117" width="623" src="Images/build_overview_timeline.png">
 
-* Build info
-* Build details in expanded view 
+* Build steps :oncoming_automobile:
+* Clickable error :oncoming_automobile: 
 
 [//]: <> ( ## Build Log)
 
@@ -69,6 +63,11 @@ The new __Build Overview__ page will contain information on the following topics
 * X latest changes (ordered by time)
     * In the code
     * In the configuration
+
+## Tests
+
+* Counters 
+* Failed test line
 
 ## Build Details
 
