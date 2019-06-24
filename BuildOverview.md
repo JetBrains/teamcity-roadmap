@@ -72,7 +72,7 @@ The new __Build Overview__ page will contain information on the following topics
 
 ## Build Details
 
-<img src="Images/build_overview_details.png">
+[//]: <> (<img src="Images/build_overview_details.png">)
 
 * Timeline
 * Build log tail
