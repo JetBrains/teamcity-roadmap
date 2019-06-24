@@ -18,20 +18,20 @@ The new __Build Overview__ page will contain information on the following topics
 
 <img height="103" width="621" src="Images/build_overview_header.png">
 
-* Breadcrumbs :checkered_flag:
+* Breadcrumbs 
 * Project/build configuration
 * Number
-* Title :checkered_flag:
-* Branch selector :checkered_flag:
+* Title 
+* Branch selector 
 * Status
 * State
 * Pin/tags
 * Artifacts
 * Agent
-* Add to favorites :checkered_flag:
-* Description :checkered_flag:
-* Paused :checkered_flag:
-* Investigation (assign/view) :checkered_flag:
+* Add to favorites 
+* Description 
+* Paused 
+* Investigation (assign/view) 
 * Dependencies 
 * Comment
 
