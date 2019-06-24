@@ -37,7 +37,7 @@ The new __Build Overview__ page will contain information on the following topics
 
 ## Tabs 
 
-<img height="66" width="670" src="Images/build_overview_tabs.png">
+[//]: <> (<img height="66" width="670" src="Images/build_overview_tabs.png">)
 
 * Overview
     * Build info
@@ -60,7 +60,7 @@ The new __Build Overview__ page will contain information on the following topics
 * Build info
 * Build details in expanded view 
 
-## Build Log
+[//]: <> ( ## Build Log)
 
 ## Changes
 
@@ -88,4 +88,4 @@ The new __Build Overview__ page will contain information on the following topics
 * Snapshot dependencies overview
 * Deployments
 
-## Other Builds
+[//]: <> ( ## Other Builds)
