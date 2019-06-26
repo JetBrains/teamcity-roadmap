@@ -1,7 +1,9 @@
 # Build Overview
 
 Whenever you want to inspect a specific build in a configuration, first thing
-you will see is the __Build Row__. 
+you will see is the __Build Row__. __Build rows__ are accessible both via the 
+_Build Configuration Overview__ and the [cards](ProjectOverview.md#trend-cards) in the __Project Overview__.
+
 
 ## Build Row
 
