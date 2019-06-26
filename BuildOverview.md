@@ -53,31 +53,15 @@ The __Expanded Build Row__ adds more details about the build:
 * Deployments :oncoming_automobile: 
 
 
-##Build Overview Page
+## Build Overview Page
 
-For in-depth information, you can open the __Build Overview Page_.
+For in-depth information, you can open the __Build Overview Page__.
 
 <img src="Images/build_overview.png">
 
-
-### Tabs 
-
-<img height="66" width="670" src="Images/build_overview_tabs.png">
-
-* Overview  :checkered_flag: 
-    * Build info
-    * Build details
-* Tests :oncoming_automobile:
-    * Filters
-        * By name
-        * By status
-    * Timeline
-  	* List/tree
-* Build log :oncoming_automobile:
-    * Timeline
-    * Flame chart
-* Snapshot dependencies :oncoming_automobile:
-
+You will see an overview of the build, which includes all the information present
+in the __Build Row__ and more. 
+ 
 ### Build Timeline
 
 <img height="117" width="623" src="Images/build_overview_timeline.png">
@@ -85,7 +69,6 @@ For in-depth information, you can open the __Build Overview Page_.
 * Build steps :oncoming_automobile:
 * Clickable error :oncoming_automobile: 
 
-[//]: <> ( ## Build Log)
 
 ### Changes
 
@@ -101,4 +84,4 @@ For in-depth information, you can open the __Build Overview Page_.
 * Failed test line :oncoming_automobile: 
 
 
-[//]: <> ( ### Other Builds)
+
