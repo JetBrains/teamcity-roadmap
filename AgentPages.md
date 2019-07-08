@@ -10,8 +10,6 @@ At first, we will focus on the pages below:
 After getting a lot of positive feedback on the sidebar for our overiew pages, 
 we decided to use the same master-detail principle for the __Agent Pages__.
 
-<img src="Images/agent_page.png">
-
 Using the sidebar itself, you will be able to:
 * Globally search your agents :oncoming_automobile:
 * View agents grouped by pools :oncoming_automobile:
@@ -19,3 +17,5 @@ Using the sidebar itself, you will be able to:
 
 Whenever you select an agent in the sidebar, more information on that agent will 
 be displayed on the right. 
+
+<img src="Images/agent_page.png">
