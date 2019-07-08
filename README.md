@@ -24,10 +24,10 @@ Future releases will revolve around these groups.
  
 | Group                                     | Release                  |
 |-------------------------------------------|--------------------------|
-| [Overview pages (Sakura)](Sakura.md)| 2019.1           |
+| [Overview pages (Sakura)](Sakura.md)      | 2019.1                   |
 | [Build overview (Sakura)](BuildOverview.md)| 2019.1/2019.2|
+| [Agent pages](AgentPages.md)              | 2019.2                   |
 | Changes/tests/investigation details pages | 2019.2                   |
-| Agent pages                               | 2019.2                   |
 | Administration pages                      | 2020.1                   |
 | Reporting pages                           | 2020.2                   |
  
