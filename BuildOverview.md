@@ -40,12 +40,12 @@ You can click on the free space anywhere in the __Build Row__ and it will expand
 
 The __Expanded Build Row__ adds more details about the build:
 
-* Timeline :oncoming_automobile: 
-* Build log tail :oncoming_automobile: 
+* Timeline :checkered_flag: 
+* Build log tail :checkered_flag: 
 * Extensions :oncoming_automobile: 
 	* Code coverage
     * Install in Toolbox
-* X build problems :oncoming_automobile: 
+* X build problems :checkered_flag: 
 * Tests counters :checkered_flag: 
 * X failed test :checkered_flag: 
 * X latest changes (ordered by time) :checkered_flag: 
@@ -69,7 +69,7 @@ in the __Build Row__ and more.
 <img height="117" width="623" src="Images/build_overview_timeline.png">
 
 * Build steps :oncoming_automobile:
-* Clickable error :oncoming_automobile: 
+* Clickable error :checkered_flag: 
 
 
 ### Changes
@@ -82,8 +82,8 @@ in the __Build Row__ and more.
 
 ### Tests
 
-* Counters :oncoming_automobile: 
-* Failed test line :oncoming_automobile: 
+* Counters :checkered_flag:  
+* Failed test line :checkered_flag: 
 
 
 
