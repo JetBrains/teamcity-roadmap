@@ -12,8 +12,8 @@ we decided to use the same master-detail principle for the __Agent Pages__.
 
 Using the sidebar itself, you will be able to:
 * Globally search your agents :oncoming_automobile:
-* View agents grouped by pools :oncoming_automobile:
-* Check the status of those agents :oncoming_automobile:
+* View agents grouped by pools :checkered_flag: 
+* Check the status of those agents :checkered_flag: 
 
 Whenever you select an agent in the sidebar, more information on that agent will 
 be displayed on the right. 
