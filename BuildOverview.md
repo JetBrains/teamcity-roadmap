@@ -83,7 +83,7 @@ In the pop-up, new features are supported:
 
 ### Failed Tests
 
-<img src="Images/build_overview_tests.png">  
+<img height="162" width="774" src="Images/build_overview_tests.png">  
 
 * Counters :checkered_flag:  
 * Failed test line :checkered_flag: 
@@ -100,7 +100,7 @@ In the pop-up, new features are supported:
 
 ### Snapshot Dependencies
 
-<img src="Images/build_overview_dependencies.png">  
+<img height="100" width="471" src="Images/build_overview_dependencies.png">  
 
 * An overview of the successful/failed dependencies 
 
