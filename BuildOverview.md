@@ -62,15 +62,36 @@ For in-depth information, you can open the __Build Overview Page__.
 <img src="Images/build_overview.png">
 
 You will see an overview of the build, which includes all the information present
-in the __Build Row__ and more. 
+in the __Expanded Build Row__ and more.  
  
-### Build Timeline
+### Build Timeline, Build Log
+
+The new __Build Log__ window displays a preview of the log. Upon clicking on it, 
+the full build log will pop up.
 
 <img height="117" width="623" src="Images/build_overview_timeline.png">
 
+* Improved performance :checkered_flag: 
+* Clickable build log :checkered_flag: 
 * Build steps :oncoming_automobile:
-* Clickable error :checkered_flag: 
+ 
+In the pop-up, new features are supported:
 
+* Dynamic loading of the log :checkered_flag: 
+* Keyboard navigation :checkered_flag: 
+
+### Code Coverage :oncoming_automobile: 
+
+### Build Problems
+
+* Display build problems :checkered_flag:
+
+### Failed Tests
+
+<img src="Images/build_overview_tests.png">  
+
+* Counters :checkered_flag:  
+* Failed test line :checkered_flag: 
 
 ### Changes
 
@@ -79,11 +100,16 @@ in the __Build Row__ and more.
 * X latest changes (ordered by time) :checkered_flag: 
     * In the code
     * In the configuration
+    * To the artifacts
+* My changes :oncoming_automobile: 
 
-### Tests
+### Deployments :checkered_flag: 
 
-* Counters :checkered_flag:  
-* Failed test line :checkered_flag: 
+<img src="Images/build_overview_deployments.png">  
 
+### Snapshot Dependencies
 
+<img src="Images/build_overview_dependencies.png.png">  
 
+build list / timeline view
+started working on chains
