@@ -56,9 +56,10 @@ The __Expanded Build Row__ adds more details about the build:
 
 
 
-## Build Overview Page
+## Build Page
 
-For in-depth information, you can open the __Build Overview Page__.
+For in-depth information, you can open the __Build Page__. First, you will end up on
+the __Build Overview Tab__. 
 
 <img src="Images/build_overview.png">
 
@@ -100,7 +101,7 @@ In the pop-up, new features are supported:
 
 ### Snapshot Dependencies
 
-<img height="100" width="471" src="Images/build_overview_dependencies.png">  
+<img height="87" width="471" src="Images/build_overview_dependencies.png">  
 
-* An overview of the successful/failed dependencies 
+* An overview of the successful/failed dependencies :checkered_flag:  
 
