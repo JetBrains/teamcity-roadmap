@@ -42,9 +42,9 @@ The __Expanded Build Row__ adds more details about the build:
 
 * Timeline :checkered_flag: 
 * Build log tail :checkered_flag: 
-* Extensions :oncoming_automobile: 
-	* Code coverage
-    * Install in Toolbox
+* Extensions 
+	* Code coverage :checkered_flag: 
+    * Install in Toolbox :oncoming_automobile:
 * X build problems :checkered_flag: 
 * Tests counters :checkered_flag: 
 * X failed test :checkered_flag: 
@@ -52,7 +52,8 @@ The __Expanded Build Row__ adds more details about the build:
 	* In the code
 	* In the configuration
 * Snapshot dependencies overview :checkered_flag: 
-* Deployments :oncoming_automobile: 
+* Deployments :checkered_flag: 
+
 
 
 ## Build Overview Page
@@ -80,12 +81,6 @@ In the pop-up, new features are supported:
 * Dynamic loading of the log :checkered_flag: 
 * Keyboard navigation :checkered_flag: 
 
-### Code Coverage :oncoming_automobile: 
-
-### Build Problems
-
-* Display build problems :checkered_flag:
-
 ### Failed Tests
 
 <img src="Images/build_overview_tests.png">  
@@ -103,13 +98,9 @@ In the pop-up, new features are supported:
     * To the artifacts
 * My changes :oncoming_automobile: 
 
-### Deployments :checkered_flag: 
-
-<img src="Images/build_overview_deployments.png">  
-
 ### Snapshot Dependencies
 
-<img src="Images/build_overview_dependencies.png.png">  
+<img src="Images/build_overview_dependencies.png">  
 
-build list / timeline view
-started working on chains
+* An overview of the successful/failed dependencies 
+
