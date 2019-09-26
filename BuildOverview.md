@@ -103,5 +103,8 @@ In the pop-up, new features are supported:
 
 <img height="87" width="471" src="Images/build_overview_dependencies.png">  
 
-* An overview of the successful/failed dependencies :checkered_flag:  
+* An overview of the successful/failed dependencies :checkered_flag:
+
+Not only did we add an overview of the dependencies, we also redesigned the
+'Dependencies' tab. Please [click here](Dependencies.md) to find out more.     
 
