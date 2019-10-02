@@ -1,7 +1,7 @@
 # Builds
 
 If you are working with builds, TeamCity has new exciting possibilities for you.
-Now, you can check multiple builds quickly thanks to the __Build Row__ and
+Now, you can check multiple builds quickly thanks to the __Build Row__ and the
 __Expanded Build Row__. <br> 
 We also redesigned the dedicated __Build Overview Page__. We had two goals in mind:
 create shortcuts for popular use-cases, and visualize as much information as possible.  
@@ -12,7 +12,6 @@ Click on any of the headers to find out what we planned and how we're getting al
 ## [Build Row](BuildRow.md)
 
 Each __Build Row__ represents a single build in the build configuration.
-
 
 <img src="Images/build_row.png">
 

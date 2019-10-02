@@ -1,4 +1,4 @@
-#Build Page
+# Build Page
 
 The __Build Page__ consists of multiple tabs. Whenever you select a specific build,
 you end up on the overview tab. <br>
@@ -51,7 +51,7 @@ In the pop-up, new features are supported:
 
 There are two ways to discover your build dependencies: either as a list or as a timeline.
 
-## List View 
+### List View 
 
 You can list all your dependencies:
 
@@ -61,7 +61,7 @@ Or sort them by their origin:
 
 <img src="Images/dependencies_hierarchy.png">
 
-## Timeline View
+### Timeline View
 
 The new timeline is here to replace the build chains. 
 
