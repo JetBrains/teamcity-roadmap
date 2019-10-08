@@ -38,13 +38,19 @@ the full build log will pop up.
 
 ### Failed Tests
 
+This is how an expanded test may look like:
+
 <img src="Images/build_overview_tests.png">  
 
 ### Changes
 
+Here is a preview of an expanded change:
+
 <img src="Images/build_overview_changes.png">
 
 ### Snapshot Dependencies
+
+Here you can check your dependencies. For more information, visit the dedicated tab. 
 
 <img height="87" width="471" src="Images/build_overview_dependencies.png">  
 
