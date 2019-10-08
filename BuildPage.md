@@ -34,15 +34,15 @@ you can check the dedicated tab.
 The new __Build Log__ window displays a preview of the log. Upon clicking on it, 
 the full build log will pop up.
 
-<img height="117" width="623" src="Images/build_overview_timeline.png">
+<img src="Images/build_overview_timeline.png">
 
 ### Failed Tests
 
-<img height="162" width="774" src="Images/build_overview_tests.png">  
+<img src="Images/build_overview_tests.png">  
 
 ### Changes
 
-<img height="149" width="426" src="Images/build_overview_changes.png">
+<img src="Images/build_overview_changes.png">
 
 ### Snapshot Dependencies
 
