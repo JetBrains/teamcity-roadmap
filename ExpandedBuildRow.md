@@ -16,9 +16,14 @@ The __Expanded Build Row__ adds more details about the build:
 * Snapshot dependencies overview :checkered_flag: 
 * Deployments :checkered_flag: 
 
-You can click on a failed test. Doing so will expand it:
+## Expandable tests
+
+You can click on a failed tests. Doing so will expand it:
 
 <img src="Images/expanded_build_row_tests.png">
+
+
+## Expandable changes
 
 The same applies to the latest changes:
 
