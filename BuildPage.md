@@ -6,6 +6,27 @@ The overview has all the crucial information in one place: build duration,
 changes, problems, tests, dependencies. If you are interested in something specific,
 you can check the dedicated tab. 
 
+## Our Progress
+
+* Build log:
+    * Improved performance :checkered_flag: 
+    * Clickable timeline :checkered_flag: 
+    * Build steps :oncoming_automobile:
+    * New features in pop-up:
+        * Dynamic loading of the log :checkered_flag: 
+        * Keyboard navigation :checkered_flag: 
+* Failed tests:
+    * Counters :checkered_flag:  
+    * Expandable failed test line :checkered_flag: 
+* Changes:
+    * Expandable latest changes (ordered by time) :checkered_flag: 
+        * In the code
+        * In the configuration
+        * To the artifacts
+    * My changes :oncoming_automobile: 
+* Snapshot dependencies:
+    * An overview of the successful/failed dependencies :checkered_flag:
+
 ## Overview Tab
 
 ### Build Timeline, Build Log
@@ -15,37 +36,17 @@ the full build log will pop up.
 
 <img height="117" width="623" src="Images/build_overview_timeline.png">
 
-* Improved performance :checkered_flag: 
-* Clickable timeline :checkered_flag: 
-* Build steps :oncoming_automobile:
- 
-In the pop-up, new features are supported:
-
-* Dynamic loading of the log :checkered_flag: 
-* Keyboard navigation :checkered_flag: 
-
 ### Failed Tests
 
 <img height="162" width="774" src="Images/build_overview_tests.png">  
-
-* Counters :checkered_flag:  
-* Failed test line :checkered_flag: 
 
 ### Changes
 
 <img height="149" width="426" src="Images/build_overview_changes.png">
 
-* X latest changes (ordered by time) :checkered_flag: 
-    * In the code
-    * In the configuration
-    * To the artifacts
-* My changes :oncoming_automobile: 
-
 ### Snapshot Dependencies
 
 <img height="87" width="471" src="Images/build_overview_dependencies.png">  
-
-* An overview of the successful/failed dependencies :checkered_flag:
 
 ## Dependencies Tab
 

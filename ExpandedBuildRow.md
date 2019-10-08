@@ -2,6 +2,8 @@
 
 The __Expanded Build Row__ adds more details about the build:
 
+## Our Progress
+
 * Timeline :checkered_flag: 
 * Expandable build log tail :checkered_flag: 
 * Extensions 
