@@ -16,7 +16,7 @@ the full build log will pop up.
 <img height="117" width="623" src="Images/build_overview_timeline.png">
 
 * Improved performance :checkered_flag: 
-* Clickable build log :checkered_flag: 
+* Clickable timeline :checkered_flag: 
 * Build steps :oncoming_automobile:
  
 In the pop-up, new features are supported:
