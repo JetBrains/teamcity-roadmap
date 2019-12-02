@@ -50,7 +50,7 @@ Here is a preview of an expanded change:
 
 ### Snapshot Dependencies
 
-Here you can check your dependencies. For more information, visit the dedicated tab. 
+Here you can check your dependencies.
 
 <img height="87" width="471" src="Images/build_overview_dependencies.png">  
 
@@ -70,7 +70,7 @@ Or sort them by their origin:
 
 ### Timeline View
 
-The new timeline is here to replace the build chains. 
+The new timeline is here:  
 
 <img src="Images/dependencies_timeline.png">
 
