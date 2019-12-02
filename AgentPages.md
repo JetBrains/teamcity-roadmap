@@ -1,21 +1,24 @@
 # Agent Pages
-All of the tabs on the __Agent Page__ will be reworked in the near future. 
+The next update will change the structure of the __Agent Pages__. \
+After getting a lot of positive feedback on the sidebar for our overiew pages, 
+we decided to use the same master-detail principle for the __Agent Pages__.  
 
-At first, we will focus on the tabs below: 
-* Connected :oncoming_automobile:
-* Disconnected :oncoming_automobile:
-* Unauthorized :oncoming_automobile:
+## Our Progress
+
+* Sidebar
+    * Grouping by pools :checkered_flag: 
+    * Connected/disconnected status :checkered_flag: 
+    * Idle/active counters :checkered_flag: 
+    * Search :checkered_flag: 
 
 ## Master-Detail Principle 
-After getting a lot of positive feedback on the sidebar for our overiew pages, 
-we decided to use the same master-detail principle for the __Agent Pages__.
+The new look is not based around the old connected/disconnected/unauthorized/pools tabs.
+The sidebar will provide you with a general overview of all your agents, grouped by pools.
 
 Using the sidebar itself, you will be able to:
-* Globally search your agents :checkered_flag:
-* View agents grouped by pools :checkered_flag: 
-* Check the status of those agents :checkered_flag: 
-    * Check the amount of disconnected or idle agents 
-    * Check the agent's OS
+* Globally search your agents
+* Instantly spot your disconnected agents
+* Check the amount of your active/idle agents 
 
 Whenever you select an agent in the sidebar, more information on that agent will 
 be displayed on the right. 
