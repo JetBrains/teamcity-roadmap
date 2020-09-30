@@ -1,3 +1,7 @@
+[![obsolete project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
+__See the relevant TeamCity roadmap on the [JetBrains website](https://www.jetbrains.com/teamcity/roadmap/).__
+
 # TeamCity UI Roadmap
 
 This page contains the TeamCity UI roadmap for the upcoming releases. You will get an
